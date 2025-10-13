@@ -1,13 +1,13 @@
 # Hello! I'm Cora ✨
 ## Please feel welcome 2 my profile! / Sintam-se a vontade no meu perfil!
 
-## Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
-
 - 🔭 currently in career transition / no momento em transição de carreira
 - 📍 living in the state of Rio de Janeiro / morando no estado do Rio de Janeiro(Brasil)
 - 👅 English and Spanish (Brazilian portuguese is my mother tong)
 - 🎓 MBA, Tourism Service Management (Universidade Federal Fluminense)
+
+## Estou aprendendo
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
 
 ## Contatos:
 <div>
