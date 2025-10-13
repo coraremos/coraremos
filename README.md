@@ -1,8 +1,8 @@
 # Hello! I'm Cora ✨
 ## Please feel welcome 2 my profile! / Sintam-se a vontade no meu perfil!
 
-- 🔭 currently in career transition / no momento em transição de carreira
-- 📚 studying in Softex's accelerated training program: https://bfd.softexpe.org.br
+- 🔭 in career transition / em transição de carreira
+- 📚 currently studying in Softex's accelerated training program: https://bfd.softexpe.org.br
 - 📍 living in the state of Rio de Janeiro (Brazil) / morando no RJ
 - 👅 English and Spanish (Brazilian Portuguese is my mother tong)
 - 🎓 MBA, Tourism Service Management (Universidade Federal Fluminense)
