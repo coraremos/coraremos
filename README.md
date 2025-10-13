@@ -2,7 +2,7 @@
 ## Please feel welcome 2 my profile! / Sintam-se a vontade no meu perfil!
 
 - 🔭 currently in career transition / no momento em transição de carreira
-- 📍 living in the state of Rio de Janeiro / morando no estado do Rio de Janeiro(Brasil)
+- 📍 living in the state of Rio de Janeiro (Brazil) / morando no RJ
 - 👅 English and Spanish (Brazilian Portuguese is my mother tong)
 - 🎓 MBA, Tourism Service Management (Universidade Federal Fluminense)
 
