@@ -3,7 +3,7 @@
 
 - 🔭 currently in career transition / no momento em transição de carreira
 - 📍 living in the state of Rio de Janeiro / morando no estado do Rio de Janeiro(Brasil)
-- 👅 English and Spanish (Brazilian portuguese is my mother tong)
+- 👅 English and Spanish (Brazilian Portuguese is my mother tong)
 - 🎓 MBA, Tourism Service Management (Universidade Federal Fluminense)
 
 ## Estou aprendendo
