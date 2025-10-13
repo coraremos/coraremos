@@ -1,8 +1,5 @@
-# Olá! Pode me chamar de Cora ✨
-## Sintam-se a vontade no meu perfil!
-
-# What's up! You can call me Cora ✨
-## Please feel welcome 2 my profile!
+# Hello! I'm Cora ✨
+## Please feel welcome 2 my profile! / Sintam-se a vontade no meu perfil!
 
 ## Estou aprendendo
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> 
