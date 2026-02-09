@@ -49,7 +49,7 @@
 ### 📞 Information Desk (Let's Connect!)
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/carolinevrcosta" target="_blank"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Network&color=B9F2FF&style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="mailto:carol.vrcosta@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=Message&color=FAD2E1&style=for-the-badge&logo=gmail" alt="Email" /></a>&nbsp;<a href="https://instagram.com/coraremos" target="_blank"><img src="https://img.shields.io/static/v1?label=Instagram&message=Feed&color=E2ECE9&style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+  <a href="https://www.linkedin.com/in/carolinevrc" target="_blank"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Network&color=B9F2FF&style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="mailto:carol.vrcosta@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=Message&color=FAD2E1&style=for-the-badge&logo=gmail" alt="Email" /></a>&nbsp;<a href="https://instagram.com/coraremos" target="_blank"><img src="https://img.shields.io/static/v1?label=Instagram&message=Feed&color=E2ECE9&style=for-the-badge&logo=instagram" alt="Instagram" /></a>
 </div>
 
 <br />
