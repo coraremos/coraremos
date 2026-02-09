@@ -41,7 +41,7 @@
 
 ### 📊 Travel Log (Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carolinevrcosta&show_icons=true&theme=calm&bg_color=fefcfd&title_color=ffb7b2&text_color=6d6d6d&icon_color=b2e2f2" alt="Cora's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coraremos&show_icons=true&theme=calm&bg_color=fefcfd&title_color=ffb7b2&text_color=6d6d6d&icon_color=b2e2f2" alt="Cora's Stats" />
 </div>
 
 ---
