@@ -1,18 +1,60 @@
-# Hello! I'm Cora ✨
-## Please feel welcome 2 my profile! / Sintam-se a vontade no meu perfil!
+# 🗺️ Welcome to Cora's Tech Journey!
+<img src="https://komarev.com/ghpvc/?username=carolinevrcosta&label=DESTINATION%20VISITORS&color=FAD2E1&style=for-the-badge" alt="Visitors" />
 
-- 🔭 in career transition / em transição de carreira
-- 📚 currently studying in <a href="https://moodle.softexpe.org.br/" rel="nofollow">BFD Softex</a> accelerated training program.
-- 📍 living in the state of Rio de Janeiro (Brazil) / morando no RJ
-- 👅 English and Spanish (Brazilian Portuguese is my mother tong)
-- 🎓 MBA, Tourism Service Management (Universidade Federal Fluminense)
+### 🛎️ Passenger Check-in (Sobre mim)
 
-## Estou aprendendo
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" width="40" height="40"/>        
+🛫 **Traveler:** Caroline Costa  
+🌍 **Base:** Rio de Janeiro, Brazil
 
-## Contatos:
-<div>
-<a href="https://www.linkedin.com/in/carolinevrcosta" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-<a href = "mailto:carol.vrcosta@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/coraremos" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+---
+
+### 🗺️ Career Itinerary:
+
+**Origin:** Tourism | Hospitality | Licensed Tour Guide  
+**Destination:** Software Development (Fullstack)  
+**Current Stop:** [BFD Softex] Accelerated Training  
+
+---
+
+### ✈️ Passport Stamps (Conquistas & Certificações)
+* **MBA - Tourism Service Management & Hospitality** | Universidade Federal Fluminense
+* **Dev Jr in Backend Python** | BFD Softex (Em progresso)
+* **Language Visa** | Brazilian Portuguese, English and Spanish
+
+---
+
+### 🧳 Survival Kit (Technical Skills)
+
+#### 🏛️ Architecture & Sightseeing (Frontend)
+![HTML5](https://img.shields.io/badge/HTML5-FAD2E1?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-B9F2FF?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🚂 Engine & Logistics (Backend)
+![Python](https://img.shields.io/badge/Python-E2ECE9?style=for-the-badge&logo=python&logoColor=3776AB)
+![Django](https://img.shields.io/badge/Django-D7E3FC?style=for-the-badge&logo=django&logoColor=092E20)
+
+#### 📂 Storage & Infrastructure (Database)
+![PostgreSQL](https://img.shields.io/badge/Postgres-C1D3FE?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-CCFFEF?style=for-the-badge&logo=docker&logoColor=2496ED)
+
+---
+
+### 📊 Travel Log (Stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carolinevrcosta&show_icons=true&theme=calm&bg_color=fefcfd&title_color=ffb7b2&text_color=6d6d6d&icon_color=b2e2f2" alt="Cora's Stats" />
 </div>
+
+---
+
+### 📞 Information Desk (Let's Connect!)
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/carolinevrcosta" target="_blank"><img src="https://img.shields.io/static/v1?label=LinkedIn&message=Network&color=B9F2FF&style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>&nbsp;<a href="mailto:carol.vrcosta@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=Message&color=FAD2E1&style=for-the-badge&logo=gmail" alt="Email" /></a>&nbsp;<a href="https://instagram.com/coraremos" target="_blank"><img src="https://img.shields.io/static/v1?label=Instagram&message=Feed&color=E2ECE9&style=for-the-badge&logo=instagram" alt="Instagram" /></a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>Safe travels and happy coding! ✈️✨</sub>
+</div>
+<br />
