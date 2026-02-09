@@ -1,5 +1,5 @@
 # 🗺️ Welcome to Cora's Tech Journey!
-<img src="https://komarev.com/ghpvc/?username=carolinevrcosta&label=DESTINATION%20VISITORS&color=FAD2E1&style=for-the-badge" alt="Visitors" />
+<img src="https://komarev.com/ghpvc/?username=coraremos&label=DESTINATION%20VISITORS&color=FAD2E1&style=for-the-badge" alt="Visitors" />
 
 ### 🛎️ Passenger Check-in (Sobre mim)
 
@@ -41,7 +41,7 @@
 
 ### 📊 Travel Log (Stats)
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=coraremos&show_icons=true&theme=calm&bg_color=fefcfd&title_color=ffb7b2&text_color=6d6d6d&icon_color=b2e2f2" alt="Cora's Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=coraremos&theme=rose&background=fefcfd&fire=ffb7b2&ring=b2e2f2&sideNums=6d6d6d&currStreakNum=ffb7b2" alt="Cora's Streak" />
 </div>
 
 ---
