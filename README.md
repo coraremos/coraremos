@@ -18,7 +18,7 @@
 
 ### ✈️ Passport Stamps (Conquistas & Certificações)
 * **MBA - Tourism Service Management & Hospitality** | Universidade Federal Fluminense
-* **Dev Jr in Backend Python** | BFD Softex (Em progresso)
+* **Dev Jr in Backend Python** | BFD Softex (Em residência até jun26)
 * **Language Visa** | Brazilian Portuguese, English and Spanish
 
 ---
